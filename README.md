@@ -4,7 +4,7 @@ This is a simple simulation of the MontyHall problem.
 
 It simulates the presenter and the host. 
 
-I run this simulation 1 000 000 times and check how often the result is correct. 
+I ran this simulation 1 000 000 times and check how often the result is correct. 
 
 I was unconvinced until I found the following result: 
 
