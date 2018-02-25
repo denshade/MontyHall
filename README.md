@@ -1,6 +1,7 @@
 # MontyHall
 
 This is a simple simulation of the MontyHall problem. 
+https://en.wikipedia.org/wiki/Monty_Hall_problem
 
 It simulates the presenter and the host. 
 
